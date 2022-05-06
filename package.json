@@ -1,0 +1,25 @@
+{
+  "name": "practica_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesRomanMartinezBello/npm-git.git"
+  },
+  "author": "ulises",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UlisesRomanMartinezBello/npm-git/issues"
+  },
+  "homepage": "https://github.com/UlisesRomanMartinezBello/npm-git#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
